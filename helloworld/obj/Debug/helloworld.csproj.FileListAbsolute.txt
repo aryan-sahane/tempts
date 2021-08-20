@@ -1,0 +1,7 @@
+C:\Users\Aryan\source\repos\For Githubb\helloworld\bin\Debug\helloworld.exe.config
+C:\Users\Aryan\source\repos\For Githubb\helloworld\bin\Debug\helloworld.exe
+C:\Users\Aryan\source\repos\For Githubb\helloworld\bin\Debug\helloworld.pdb
+C:\Users\Aryan\source\repos\For Githubb\helloworld\obj\Debug\helloworld.csproj.AssemblyReference.cache
+C:\Users\Aryan\source\repos\For Githubb\helloworld\obj\Debug\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\source\repos\For Githubb\helloworld\obj\Debug\helloworld.exe
+C:\Users\Aryan\source\repos\For Githubb\helloworld\obj\Debug\helloworld.pdb
